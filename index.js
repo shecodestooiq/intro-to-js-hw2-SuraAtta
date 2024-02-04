@@ -16,10 +16,10 @@ console.log("Data type of variableToCheck:", dataType);
 // Task 3
 var greeting = "Hello";
 var theName = "Sura";
-console.log(greeting , theName);
+console.log(greeting +" "+ theName);
 
 //Homework - intro-to-js-hw2
-// Task 2
+// Task 
 var a = 20;
 var b = 10;
 
